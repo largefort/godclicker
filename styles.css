@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.attribute {
+    margin: 20px;
+}
+
+#game {
+    margin-top: 50px;
+}
+
+#challengeResult {
+    margin-top: 20px;
+}
